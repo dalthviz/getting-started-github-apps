@@ -6,3 +6,9 @@ Daniel
 ### Hobbies
 Football
 
+### Topics
+Software Development
+
+Education
+
+Optimization
